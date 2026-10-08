@@ -1,0 +1,6 @@
+Fechamento
+Em uma frase, explique a diferença entre || e ??.
+
+
+|| utiliza o valor quando o primeiro valor é false.
+?? apenas usa o alternativo quando o primeiro valor é null ou undefined.
